@@ -1,0 +1,10 @@
+
+torch
+torchvision
+tensorflow
+numpy
+pandas
+emnist
+matplotlib
+pillow
+pydot
