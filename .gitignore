@@ -3,3 +3,4 @@
 .DS_Store
 .venv
 3-image_classification/animals/*
+*.h5
