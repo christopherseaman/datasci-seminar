@@ -1,7 +1,8 @@
-numpy
-matplotlib
-pydot
-tensorflow
-string
-pandas
 emnist
+pydot
+numpy
+pandas
+matplotlib
+scikit-learn
+xgboost
+tensorflow
